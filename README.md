@@ -11,4 +11,4 @@ Realtime bar graph (updated every 10 seconds) of the currently trending images a
 `python consumer.py`
 
 # Example Output
-![https://github.com/mattpaletta/SparkMediaInception-v3/raw/master/myfilename.png]
+![output_graph](https://github.com/mattpaletta/SparkMediaInception-v3/raw/master/myfilename.png "Example Output Graph")
